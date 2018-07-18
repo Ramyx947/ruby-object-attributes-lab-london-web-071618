@@ -20,7 +20,9 @@ class Dog
       @breed = breed 
   end
 end 
-  snoopy= Dog.new 
-  snoopy.name= "Snoopy"
-  puts snoopy.name
+  # snoopy= Dog.new 
+  # snoopy.name= "Snoopy"
+  # puts snoopy.name
+  
+  
   
