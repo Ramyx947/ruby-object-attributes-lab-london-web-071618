@@ -19,6 +19,9 @@ class Dog
     def with_breeds(breed)
       @breed = breed 
   end
+  def with_breeds
+    @breed
+  end 
 end 
   # snoopy= Dog.new 
   # snoopy.name= "Snoopy"
